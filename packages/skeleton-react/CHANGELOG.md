@@ -1,5 +1,11 @@
 # @skeletonlabs/skeleton-react
 
+## 1.0.0-next.14
+
+### Patch Changes
+
+- Implement `style` prop for Avatar component. ([#3117](https://github.com/skeletonlabs/skeleton/pull/3117))
+
 ## 1.0.0-next.13
 
 ### Patch Changes

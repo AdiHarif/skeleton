@@ -1,5 +1,15 @@
 # @skeletonlabs/skeleton-svelte
 
+## 1.0.0-next.18
+
+### Patch Changes
+
+- bugfix: Call custom event handlers provided in ZagJs's internal handlers ([#3157](https://github.com/skeletonlabs/skeleton/pull/3157))
+
+- Implement `style` prop for Avatar component. ([#3117](https://github.com/skeletonlabs/skeleton/pull/3117))
+
+- Bugfix: `bind:pageSize` now correctly updates in combination with `onPageSizeChange` handler. ([#3157](https://github.com/skeletonlabs/skeleton/pull/3157))
+
 ## 1.0.0-next.17
 
 ### Patch Changes
